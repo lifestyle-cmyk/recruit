@@ -1,0 +1,9 @@
+title: "ライフスタイル情報ブログ | Lifestyle CMYK"
+description: "暮らしに役立つアイデアやレビューを紹介するライフスタイル情報ブログ"
+author: "Lifestyle CMYK"
+url: "https://lifestyle-cmyk.github.io"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
