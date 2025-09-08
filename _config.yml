@@ -1,9 +1,8 @@
-title: "ライフスタイル情報ブログ | Lifestyle CMYK"
-description: "暮らしに役立つアイデアやレビューを紹介するライフスタイル情報ブログ"
-author: "Lifestyle CMYK"
-url: "https://lifestyle-cmyk.github.io"
-
+title: "新卒OLのFX体験ブログ"
+description: "思ったより簡単に始められた！初心者OLのFX体験談"
+baseurl: ""
+url: "https://yourusername.github.io/fx-ol-affiliate"
+theme: minima
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-seo-tag

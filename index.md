@@ -1,13 +1,10 @@
 ---
-layout: default
-title: "ホーム"
+layout: home
+title: "トップページ"
 ---
 
-# ライフスタイル情報ブログへようこそ
-最新の記事はこちら👇
+# 🌸 新卒OLのFX奮闘記
+投資って難しそう…そう思っていた私が、実際にFXを始めてみたら**思ったより簡単だった**！  
+このサイトでは、私の実体験をもとに「初心者が一歩踏み出すきっかけ」になる情報をまとめています。
 
-<ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+👉 [私が使っているFX口座はこちら](compare.md)
